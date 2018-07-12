@@ -8,7 +8,7 @@
 classname = "Agility 2018 BIG-IQ CM Access - Self Guided"
 
 # OPTIONAL: The URL to the GitHub Repository for this class
-github_repo = "https://github.com/nalbj/Agility2018IQaccess"
+github_repo = "https://github.com/nalbj/IQaccess2018"
 
 # OPTIONAL: Google Analytics
 # googleanalytics_id = 'UA-85156643-4'
@@ -256,6 +256,3 @@ texinfo_documents = [
      author, classname, classname,
      'Training'),
 ]
-
-
-
